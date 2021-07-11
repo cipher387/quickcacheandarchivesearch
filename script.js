@@ -26,9 +26,9 @@ function buttonOpen(buttonValue) {
         links["YandexCache"] = "https://yandex.ru/search/?text=";
         links["BingCache"] = "https://www.bing.com/search?q=";
         links["WebArchive"] = "https://web.archive.org/web/";
-        links["ArchiveIS"] = "http://archive.is/newest/iphones.ru";
+        links["ArchiveIS"] = "https://archive.is/newest/iphones.ru";
         links["WebCitation"] = "https://www.webcitation.org/query?url=";
-        links["WikiWix"] = "http://archive.wikiwix.com/cache/index2.php?url=";
+        links["WikiWix"] = "https://archive.wikiwix.com/cache/index2.php?url=";
         links["Exalead"] = "https://www.exalead.com/search/web/results/?q=";
         links["Gigablast"] = "https://www.gigablast.com/search?q=url:";
         links["Sogou"] = "https://www.sogou.com/web?query=";
@@ -50,6 +50,7 @@ function buttonOpen(buttonValue) {
         if (newWindowsLinks.indexOf(buttonValue) == -1) {
 
             document.getElementById('mainframe').src = finalURL;
+
         } else {
 
             window.open(finalURL);
