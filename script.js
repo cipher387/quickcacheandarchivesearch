@@ -26,7 +26,7 @@ function buttonOpen(buttonValue) {
         links["YandexCache"] = "https://yandex.ru/search/?text=";
         links["BingCache"] = "https://www.bing.com/search?q=";
         links["WebArchive"] = "https://web.archive.org/web/";
-        links["ArchiveIS"] = "https://archive.is/newest/iphones.ru";
+        links["ArchiveIS"] = "https://archive.is/newest/";
         links["WebCitation"] = "https://www.webcitation.org/query?url=";
         links["WikiWix"] = "https://archive.wikiwix.com/cache/index2.php?url=";
         links["Exalead"] = "https://www.exalead.com/search/web/results/?q=";
