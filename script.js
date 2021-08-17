@@ -39,9 +39,14 @@
         	 links["Mailru"]="https://go.mail.ru/search?q=";
         	 links["UKWA"]="https://www.webarchive.org.uk/en/ukwa/search?text=";
         	 links["Arquivopt"]="https://arquivo.pt/page/search?hitsPerPage=10&query=";
-        	  links["Locarchive"]="https://webarchive.loc.gov/all/19960101000000-20200606235959*/";
-        	  links["Stanfordarchive"]="https://swap.stanford.edu/*/";
-        	   links["Versafn"]="https://vefsafn.is/?page=wayback-results&site=";
+        	 links["Locarchive"]="https://webarchive.loc.gov/all/19960101000000-20200606235959*/";
+        	 links["Stanfordarchive"]="https://swap.stanford.edu/*/";
+        	 links["Versafn"]="https://vefsafn.is/?page=wayback-results&site=";
+	         links["Archiveit"] = "https://archive-it.org/explore?q=";
+                 links["Hawnskhr"] = "https://haw.nsk.hr/wayback/*/";
+                 links["Arhivnuk"] = "http://arhiv.nuk.uni-lj.si/?q=";
+                 links["Nationalukarchive"] = "https://webarchive.nationalarchives.gov.uk/search/result/?q=";
+                 links["Singaporearchive"] = "https://eresources.nlb.gov.sg/webarchives/search-result/";
         	  window.open(links[buttonValue]+userURL);
         	  
             }
