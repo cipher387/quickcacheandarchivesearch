@@ -43,8 +43,13 @@ function buttonOpen(buttonValue) {
         links["Locarchive"] = "https://webarchive.loc.gov/all/19960101000000-20200606235959*/";
         links["Stanfordarchive"] = "https://swap.stanford.edu/*/";
         links["Versafn"] = "https://vefsafn.is/?page=wayback-results&site=";
+        links["Archiveit"] = "https://archive-it.org/explore?q=";
+        links["Hawnskhr"] = "https://haw.nsk.hr/wayback/*/";
+        links["Arhivnuk"] = "http://arhiv.nuk.uni-lj.si/?q=";
+        links["Nationalukarchive"] = "https://webarchive.nationalarchives.gov.uk/search/result/?q=";
+        links["Singaporearchive"] = "https://eresources.nlb.gov.sg/webarchives/search-result/";
         finalURL = links[buttonValue] + userURL;
-        const newWindowsLinks = ["GoogleCache", "YandexCache", "365", "Naver", "Yahoo", "Mailru", "WebArchive", "Versafn"];
+        const newWindowsLinks = ["WebCitation","Singaporearchive","Nationalukarchive","Arhivnuk","Hawnskhr","Megalodon","WikiWix","Baidu","Archiveit","GoogleCache", "YandexCache", "365", "Naver", "Yahoo", "Mailru", "WebArchive", "Versafn"];
 
 
         if (newWindowsLinks.indexOf(buttonValue) == -1) {
