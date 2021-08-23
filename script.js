@@ -47,6 +47,7 @@
                  links["Arhivnuk"] = "http://arhiv.nuk.uni-lj.si/?q=";
                  links["Nationalukarchive"] = "https://webarchive.nationalarchives.gov.uk/search/result/?q=";
                  links["Singaporearchive"] = "https://eresources.nlb.gov.sg/webarchives/search-result/";
+		 links["Trovearchive"] = "https://trove.nla.gov.au/search/category/websites?keyword=";
         	  window.open(links[buttonValue]+userURL);
         	  
             }
