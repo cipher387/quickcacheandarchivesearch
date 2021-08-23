@@ -49,6 +49,7 @@
                  links["Singaporearchive"] = "https://eresources.nlb.gov.sg/webarchives/search-result/";
 		 links["Trovearchive"] = "https://trove.nla.gov.au/search/category/websites?keyword=";
 		 links["Unchrarchive"] = "https://webarchive.archive.unhcr.org/search/results?q=";
+		 links["Estonianarchive"] = "https://veebiarhiiv.digar.ee/a/*/";
         	  window.open(links[buttonValue]+userURL);
         	  
             }
