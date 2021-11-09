@@ -51,6 +51,7 @@
 		 links["Unchrarchive"] = "https://webarchive.archive.unhcr.org/search/results?q=";
 		 links["Estonianarchive"] = "https://veebiarhiiv.digar.ee/a/*/";
 	         links["Pronigovarchive"] = "https://webarchive.proni.gov.uk/#!/search?query=";
+		 links["Unescoarchive"] = "https://webarchive.unesco.org/#!/search?query=";
         	  window.open(links[buttonValue]+userURL);
         	  
             }
