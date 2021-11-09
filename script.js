@@ -50,6 +50,7 @@
 		 links["Trovearchive"] = "https://trove.nla.gov.au/search/category/websites?keyword=";
 		 links["Unchrarchive"] = "https://webarchive.archive.unhcr.org/search/results?q=";
 		 links["Estonianarchive"] = "https://veebiarhiiv.digar.ee/a/*/";
+	         links["Pronigovarchive"] = "https://webarchive.proni.gov.uk/#!/search?query=";
         	  window.open(links[buttonValue]+userURL);
         	  
             }
