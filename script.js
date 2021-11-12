@@ -53,6 +53,7 @@
 	         links["Pronigovarchive"] = "https://webarchive.proni.gov.uk/#!/search?query=";
 		 links["Unescoarchive"] = "https://webarchive.unesco.org/#!/search?query=";
 		 links["Endofterm"] = "http://eotarchive.cdlib.org/search?keyword=";
+		 links["Czechwebarchive"] = "https://wayback.webarchiv.cz/wayback/*/";
 		 links["FinnishWebArchive"] = "https://verkkoarkisto.kansalliskirjasto.fi/va/index.php/search?view=frontpage&material_type=website_word&query=";
 		 links["EuExithWebArchive"] = "https://webarchive.nationalarchives.gov.uk/eu-exit/results/?title=";
 		 links["AUEBWebArchive"] = "http://archive.aueb.gr/?query=";
