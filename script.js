@@ -52,7 +52,13 @@
 		 links["Estonianarchive"] = "https://veebiarhiiv.digar.ee/a/*/";
 	         links["Pronigovarchive"] = "https://webarchive.proni.gov.uk/#!/search?query=";
 		 links["Unescoarchive"] = "https://webarchive.unesco.org/#!/search?query=";
-        	  window.open(links[buttonValue]+userURL);
+		 links["Endofterm"] = "http://eotarchive.cdlib.org/search?keyword=";
+		 links["FinnishWebArchive"] = "https://verkkoarkisto.kansalliskirjasto.fi/va/index.php/search?view=frontpage&material_type=website_word&query=";
+		 links["EuExithWebArchive"] = "https://webarchive.nationalarchives.gov.uk/eu-exit/results/?title=";
+		 links["AUEBWebArchive"] = "http://archive.aueb.gr/?query=";
+		 links["CataloniaWebArchive"] = "https://wayback.padicat.cat/wayback/*/";
+		 links["GhostArchive"] = "http://ghostarchive.org/search?term=";
+        	 window.open(links[buttonValue]+userURL);
         	  
             }
 }
