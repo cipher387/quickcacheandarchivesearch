@@ -122,7 +122,7 @@ function buttonOpen(buttonValue)
             }
 }
 
-function openAll(buttonValue)
+function openAll()
 {
 	userURL=document.getElementById("url").value;
 
