@@ -135,15 +135,15 @@ function allOpen()
         	{
 
         	  const links = [];
-        	  window.open("https://google.com/search?q="+userURL,"1");
-        	  window.open("https://yandex.ru/search/?text="+userURL,"2");
-        	  window.open("https://www.bing.com/search?q="+userURL,"3");
-        	  window.open("https://web.archive.org/web/"+userURL,"4");
-        	   window.open("http://archive.is/newest/"+userURL,"5");
-        	   window.open("https://www.webcitation.org/query?url="+userURL,"6");
-        	   window.open("http://archive.wikiwix.com/cache/index2.php?url="+userURL,"7");
-        	   window.open("https://www.exalead.com/search/web/results/?q="+userURL,"8");
-        	   window.open("https://www.gigablast.com/search?q=url:"+userURL,"9");
+        	  window.open("https://google.com/search?q="+userURL);
+        	  window.open("https://yandex.ru/search/?text="+userURL);
+        	  window.open("https://www.bing.com/search?q="+userURL);
+        	  window.open("https://web.archive.org/web/"+userURL);
+        	   window.open("http://archive.is/newest/"+userURL);
+        	   window.open("https://www.webcitation.org/query?url="+userURL);
+        	   window.open("http://archive.wikiwix.com/cache/index2.php?url="+userURL);
+        	   window.open("https://www.exalead.com/search/web/results/?q="+userURL);
+        	   window.open("https://www.gigablast.com/search?q=url:"+userURL);
         	  window.open("https://www.sogou.com/web?query="+userURL);
         	   window.open("https://www.so.com/s?ie=utf-8&fr=none&src=home_www&q="+userURL);
         	  window.open("https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd="+userURL);
