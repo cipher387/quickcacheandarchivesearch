@@ -1,6 +1,10 @@
 
 <h1>Quick Cache and Archive search</h1>
 
+
+
+Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+
 <div>
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
     <p align="center">
@@ -74,12 +78,5 @@ Explore this project in https://cipher387.github.io/quickcacheandarchivesearch/
 
 <hr>
 
-Twitter — https://twitter.com/cyb_detective
 
-Telegram — https://t.me/cybdetective
-
-Github — https://github.com/cipher387
-
-Discord — https://cipher387.github.io/discordlink.html
-
-<hr>
+Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
