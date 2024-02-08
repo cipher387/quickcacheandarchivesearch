@@ -20,7 +20,7 @@ Thank you for following me! https://cybdetective.com
 Quick Cache and Archive webpage search in different services:
 
 
-Google
+
 
 Yandex
 
@@ -45,8 +45,6 @@ Sogou.com
 Megalodon
 
 Exalead.com
-
-Gigablast.com
 
 Archive.is
 
