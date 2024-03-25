@@ -72,7 +72,7 @@ Trove (Australian Web Archive)
 
 
 
-Explore this project in https://cipher387.github.io/quickcacheandarchivesearch/
+Explore this project in https://cybdetective.com/quickcacheandarhivesearch.html
 
 <hr>
 
